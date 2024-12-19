@@ -1,0 +1,9 @@
+/* App.css */
+body {
+    background-image: url('Assets/bis_bg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
